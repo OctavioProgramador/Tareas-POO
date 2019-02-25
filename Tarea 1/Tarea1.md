@@ -46,6 +46,41 @@ La herencia es un poderoso método de creación de clases, el cual nos permite b
 
 ___
 
+### UML: diagrama de clases
+
+ La falta de estandarización  en  la  manera  de  representar  gráficamente  un  modelo  impedía  que  los  diseños  gráficos  realizados   se   pudieran   compartir   fácilmente   entre   distintos diseñadores. Debido a esto se creo el Lenguaje Unificado  de  Modelado  (UML:  Unified  Modeling  Lan-guage). 
+ El  lenguaje  UML  tiene  una  notación  gráfica  muy  expresiva  que  permite  representar  en  mayor  o  menor  medida  todas  las  fases  de  un  proyecto  informático:  desde  el  análisis  con  los  casos  de  uso,  el  diseño  con  los  diagramas  de  clases,  objetos,  etc.,  hasta  la  imple-mentación  y  configuración  con  los  diagramas  de  des-pliegue.
+
+#### Historia
+
+El  lenguaje  UML  comenzó  a  gestarse  en  octubre  de 1994 [1], cuando Rumbaugh se unió a la compañía Rational fundada por Booch (dos reputados investiga-dores en el área de metodología del software). El ob-jetivo  de  ambos  era  unificar  dos  métodos  que  habían  desarrollado: el método Booch y el OMT (Object Mode-lling Tool ). El primer borrador apareció en octubre de 1995. En esa misma época otro reputado investigador, Jacobson,  se  unió  a  Rational  y  se  incluyeron  ideas  suyas. Estas tres personas son conocidas como los “tres amigos”. Además, este lenguaje se abrió a la colabora-ción  de  otras  empresas  para  que  aportaran  sus  ideas.  Todas estas colaboraciones condujeron a la definición de la primera versión de UML.
+
+Esta primera versión se ofreció a un grupo de tra-bajo  para  convertirlo  en  1997  en  un  estándar  del  OMG          (Object Management Group <http://www.omg.org>).
+
+#### Diagrama de clases 
+
+UML sirve para el modelado completo de sistemas complejos, tanto en el diseño de los sistemas software como para la arquitectura hardware donde se ejecuten.
+
+Un  diagrama  es  la  representación  gráfica  de  un  conjunto de elementos con sus relaciones. En concre-to,  un  diagrama  ofrece  una  vista  del  sistema  a  modelar. El diagrama de clases muestra un conjunto de clases, interfaces  y  sus  relaciones.  Éste  es  el  diagrama  más  común a la hora de describir el diseño de los sistemas orientados  a  objetos. El propósito de un diagrama de clase es describir las clases que conforman el modelo de un  determinado  sistema.
+Se  puede  decir  que  existen  tres  perspectivas  diferentes  desde  las  cuales  se  pueden utilizar los diagramas de clase:
+
+* **Conceptual**:El  diagrama  de  clase  representa  los  conceptos  en  el  dominio  del problema   que   se   está   estudiando.   Este   modelo   debe   crearse   con   la   mayor independencia posible de la implementación final del sistema.
+* **Especificación:** El diagrama de clase refleja las interfaces de las clases, pero no su implementación. Aquí las clases aparecen más cercanas a los tipos de datos, ya que un   tipo   representa   una   interfaz   que   puede   tener   muchas   implementaciones diferentes.
+* **Implementación:** Esta vista representa las clases tal cual aparecen en el entorno de implementación
+
+Algunas de herramientas para el uso del UML son: MagicDraw, Papyrus UML, Modelio, Argo UML, Star UML, UMLet.
+
+_Fuentes:_
+><http://www.disca.upv.es/enheror/pdf/ActaUML.PDF>
+<https://repositorio.grial.eu/bitstream/grial/353/1/DClase.pdf>
+
+#### Propuesta
+
+Mi máquina se tratara de una especie de robot de autoservicio que tome ordenes,revise una base datos, obtenga el pago, busque el producto, se lo entrega al cliente, obtenga una confirmación y borre el objeto de la base de datos.
+
+![Ejemplo de diagrama de clase](Captura.PNG)
+
+
 
 
 
