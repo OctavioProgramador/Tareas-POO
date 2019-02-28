@@ -87,10 +87,11 @@ namespace tarea2
     {
         static void Main(string[] args)
         {
-            Dado a = new Dado("rojo", 5);
-            Dado b = new Dado("verde", 5);
-            Dado c = new Dado("azul", 3);
+            Dado a = new Dado("rojo");
+            Dado b = new Dado("verde");
+            Dado c = new Dado("azul");
             Dado.Comparar(a,b,c);
+            Console.ReadKey();
 
         }
     }
