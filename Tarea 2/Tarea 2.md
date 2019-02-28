@@ -128,7 +128,7 @@ namespace params
 {
     class Ejemplo
     {
-        public static ImprimirTodo(params string[] palabras )
+        public static void ImprimirTodo(params string[] palabras )
         {
             foreach(string x in palabras)
             {
@@ -159,12 +159,12 @@ namespace ejemplo
 {
     class Ejemplo
     {
-        public static ModificarInt(ref int valor )
+        public static void ModificarInt(ref int valor )
         {  
             valor = valor +1;
         }
     }
-    class Program 
+    class Program
     {
         static void Main()
         {
@@ -204,7 +204,7 @@ namespace ejemploConstructor
             valor2 = b;
         }
     }
-    class Program 
+    class Program
     {
         static void Main()
         {
