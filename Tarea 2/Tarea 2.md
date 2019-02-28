@@ -30,7 +30,7 @@ _Fuente:_
 El operador new se usa para instanciar objetos e invocar constructores, por ejemplo
 
 ````c#
-Class Ejemplo
+class Ejemplo
 {
     private string cadena;
     public Ejemplo(){
@@ -38,7 +38,7 @@ Class Ejemplo
     }
 }
 
-Class program
+class program
 {
     static void Main()
     {
