@@ -2,20 +2,20 @@ using System;
 
 namespace Herencia
 {
-         class Musico
+    abstract class Musico
     {
         public string nombre;
         public Musico(string n)
         {
             this.nombre = n;
         }
-        public void Imprimir(){
+        /* public void Imprimir(){
             Console.WriteLine(this.Saludo());
-        }
-        public virtual string Saludo()
-        {
-            //return "Hola soy "+nommbre;
+        }*/
+        public abstract string Saludo();
+        /* {
+            return "Hola soy "+nommbre;
             return String.Format("Hola, soy {0}", nombre);
-        }
+        }*/
     }
 }

@@ -9,7 +9,7 @@ namespace Herencia
             this.bateria = bateria;
         }
         public override string Saludo(){
-            return base.Saludo()+" y soy baterista, y mi bateria es "+bateria;
+            return $"Soy {nombre} y soy baterista, y mi bateria es {bateria}.";
         }
     }
 }

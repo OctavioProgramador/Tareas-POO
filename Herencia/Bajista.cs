@@ -9,8 +9,9 @@ namespace Herencia
         {
             this.bajo = bajo;
         }
-        public override string Saludo(){
-            return base.Saludo()+" y soy bajista, y mi bajo es "+bajo;
+        public override  string Saludo()
+        {
+            return $"Soy {nombre} y soy bajista, y mi bajo es {bajo}.";
         }
      } 
 }
