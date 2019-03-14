@@ -90,6 +90,7 @@ namespace tarea2
             Dado a = new Dado("rojo");
             Dado b = new Dado("verde");
             Dado c = new Dado("azul");
+            Console.WriteLine(a.GetHashCode());
             Dado.Comparar(a,b,c);
             Console.ReadKey();
 
