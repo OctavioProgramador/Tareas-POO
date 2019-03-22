@@ -1,0 +1,11 @@
+C:\Users\ITT\Documents\GitHub\Tareas-POO\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.deps.json
+C:\Users\ITT\Documents\GitHub\Tareas-POO\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.runtimeconfig.json
+C:\Users\ITT\Documents\GitHub\Tareas-POO\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.runtimeconfig.dev.json
+C:\Users\ITT\Documents\GitHub\Tareas-POO\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.dll
+C:\Users\ITT\Documents\GitHub\Tareas-POO\Interfaces\bin\Debug\netcoreapp2.1\Interfaces.pdb
+C:\Users\ITT\Documents\GitHub\Tareas-POO\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\ITT\Documents\GitHub\Tareas-POO\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ITT\Documents\GitHub\Tareas-POO\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\ITT\Documents\GitHub\Tareas-POO\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.AssemblyInfo.cs
+C:\Users\ITT\Documents\GitHub\Tareas-POO\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.dll
+C:\Users\ITT\Documents\GitHub\Tareas-POO\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.pdb
