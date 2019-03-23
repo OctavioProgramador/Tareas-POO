@@ -1,0 +1,11 @@
+C:\Users\ITT\Documents\GitHub\Tareas-POO\El stak\bin\Debug\netcoreapp2.1\El stak.deps.json
+C:\Users\ITT\Documents\GitHub\Tareas-POO\El stak\bin\Debug\netcoreapp2.1\El stak.runtimeconfig.json
+C:\Users\ITT\Documents\GitHub\Tareas-POO\El stak\bin\Debug\netcoreapp2.1\El stak.runtimeconfig.dev.json
+C:\Users\ITT\Documents\GitHub\Tareas-POO\El stak\bin\Debug\netcoreapp2.1\El stak.dll
+C:\Users\ITT\Documents\GitHub\Tareas-POO\El stak\bin\Debug\netcoreapp2.1\El stak.pdb
+C:\Users\ITT\Documents\GitHub\Tareas-POO\El stak\obj\Debug\netcoreapp2.1\El stak.csprojAssemblyReference.cache
+C:\Users\ITT\Documents\GitHub\Tareas-POO\El stak\obj\Debug\netcoreapp2.1\El stak.csproj.CoreCompileInputs.cache
+C:\Users\ITT\Documents\GitHub\Tareas-POO\El stak\obj\Debug\netcoreapp2.1\El stak.AssemblyInfoInputs.cache
+C:\Users\ITT\Documents\GitHub\Tareas-POO\El stak\obj\Debug\netcoreapp2.1\El stak.AssemblyInfo.cs
+C:\Users\ITT\Documents\GitHub\Tareas-POO\El stak\obj\Debug\netcoreapp2.1\El stak.dll
+C:\Users\ITT\Documents\GitHub\Tareas-POO\El stak\obj\Debug\netcoreapp2.1\El stak.pdb
