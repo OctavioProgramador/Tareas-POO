@@ -44,8 +44,7 @@ namespace El_stak
             pila.Push("Ana");
             pila.Push("Tom");           
             pila.Push("Sue");
-            System.Console.WriteLine(pila.Pop());
-            System.Console.WriteLine(pila.Pop());
+            for(int i = 0; i<3; i++)
             System.Console.WriteLine(pila.Pop());
         }
     }
