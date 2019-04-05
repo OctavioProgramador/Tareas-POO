@@ -1,0 +1,11 @@
+C:\Users\Octavio\Documents\Tareas\Tareas-POO\Tarea 3\Figura\obj\Debug\netcoreapp2.2\Figura.csprojAssemblyReference.cache
+C:\Users\Octavio\Documents\Tareas\Tareas-POO\Tarea 3\Figura\obj\Debug\netcoreapp2.2\Figura.csproj.CoreCompileInputs.cache
+C:\Users\Octavio\Documents\Tareas\Tareas-POO\Tarea 3\Figura\obj\Debug\netcoreapp2.2\Figura.AssemblyInfoInputs.cache
+C:\Users\Octavio\Documents\Tareas\Tareas-POO\Tarea 3\Figura\obj\Debug\netcoreapp2.2\Figura.AssemblyInfo.cs
+C:\Users\Octavio\Documents\Tareas\Tareas-POO\Tarea 3\Figura\bin\Debug\netcoreapp2.2\Figura.deps.json
+C:\Users\Octavio\Documents\Tareas\Tareas-POO\Tarea 3\Figura\bin\Debug\netcoreapp2.2\Figura.runtimeconfig.json
+C:\Users\Octavio\Documents\Tareas\Tareas-POO\Tarea 3\Figura\bin\Debug\netcoreapp2.2\Figura.runtimeconfig.dev.json
+C:\Users\Octavio\Documents\Tareas\Tareas-POO\Tarea 3\Figura\bin\Debug\netcoreapp2.2\Figura.dll
+C:\Users\Octavio\Documents\Tareas\Tareas-POO\Tarea 3\Figura\bin\Debug\netcoreapp2.2\Figura.pdb
+C:\Users\Octavio\Documents\Tareas\Tareas-POO\Tarea 3\Figura\obj\Debug\netcoreapp2.2\Figura.dll
+C:\Users\Octavio\Documents\Tareas\Tareas-POO\Tarea 3\Figura\obj\Debug\netcoreapp2.2\Figura.pdb

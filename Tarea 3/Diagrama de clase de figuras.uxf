@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>510</x>
+      <y>100</y>
+      <w>390</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>Abstract Figura
+--
+#posicion: Vector2D 
+#relleno: Color
+#borde: Color
+--
++Figura(Color relleno, Color borde, Vector2D posicion)
++Figura(Color relleno, Color borde, int x int y)
++Abstract Dibuja():void
++Abstract Area(): double
++Abstract Tipo(): string</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1230</x>
+      <y>370</y>
+      <w>240</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>Color
+--
+-r: int
+-g: int
+-b: int
+--
++Color(int r, int g, int b)
++override ToString(): string
+-AsignarValorColor(int color): int</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1240</x>
+      <y>100</y>
+      <w>210</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>Vector2D
+--
++x: int
++y: int
+--
++Vector2D()
++Vector2D(int x, int y)
++override ToString(): string
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>690</x>
+      <y>360</y>
+      <w>520</w>
+      <h>160</h>
+    </coordinates>
+    <panel_attributes>Rectangulo
+--
+-altura: int
+-ancho: int
+--
++Rectangulo(Color relleno, Color borde, int altura,int ancho, Vector2D posicion)
++Rectangulo(Color relleno, Color borde,int altura, int ancho, int x, int y)
++Override Dibuja(): void
++Override Area(): double
++Override Tipo(): string
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>110</x>
+      <y>360</y>
+      <w>520</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>Triangulo
+--
+-altura: int
+-ancho: int
+--
++Triangulo(Color relleno, Color borde,int altura, int ancho, Vector2D posicion)
++Triangulo(Color relleno, Color borde,int altura, int ancho, int x, int y)
++Override Dibuja(): void
++Override Area(): double
++Override Tipo(): string
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>750</x>
+      <y>270</y>
+      <w>30</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>570</x>
+      <y>270</y>
+      <w>30</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+</diagram>
