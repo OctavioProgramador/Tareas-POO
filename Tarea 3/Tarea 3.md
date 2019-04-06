@@ -1,4 +1,16 @@
-# Tarea 3
+# Unidad 3 Herencia.
+
+## Instituto Tecnológico de Tijuana
+
+Alumno: Salasar Ramírez Octavio
+
+Número de control: 18212265
+
+___
+
+### Tarea 3
+
+___
 
 ## 3.- Herencia
 
@@ -7,6 +19,7 @@
 La herencia es la característica fundamental que distingue un lenguaje orientado a objetos la cual permite heredar a las clases características y conductas de una o varias clases denominadas base. Las clases que heredan de clases base se denominan derivadas, estas a su vez pueden ser clases bases para otras clases derivadas. Se establece así una clasificación jerárquica, similar a la existente en Biología con los animales y las plantas.
 
 ## Digrama de clase de figuras
+
 ![DiagramaDeClase](Diagrama.png)
 
 **Las clase base** en este caso en la clase abstracta Figura, que se relaciona por medio de herencia con las **clases derivadas** Triangulo y Rectangulo.
@@ -22,6 +35,7 @@ Hay dos tipos de herencia: Herencia Simple y Herencia Múltiple. La primera indi
 ## Programa Figura
 
 **Proyecto adjunto en la carpeta figura de este repositorio.**
+
 ```csharp
 using System;
 
@@ -215,14 +229,9 @@ namespace Figura
         }
 }
 ```
+
 ## La palabra clave base
 
-The base keyword is used to access members of the base class from within a derived class:
-
-    Call a method on the base class that has been overridden by another method.
-
-    Specify which base-class constructor should be called when creating instances of the derived class.
-
-A base class access is permitted only in a constructor, an instance method, or an instance property accessor.
-
-La palabra clave *base* es usada para acceder miembros de la clase base(clase padre) 
+La palabra clave *base* es usada para acceder miembros de la clase base(clase padre) desde una clase dereivada.
+>Se puede llamar a un método en la clase base que halla sido sobrescrito por otro método.
+>Especifica cual costructor de la clase base puede ser llamado cuando se crean instancias de la clase derivada
