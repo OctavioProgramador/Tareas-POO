@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "c:\\Users\\Octavio Salasar\\Documents\\GitHub\\Tareas-POO\\Tarea 4\\Tarea4\\Tarea4.csproj",
+  "ProjectFilePath": "c:\\Users\\Octavio\\Documents\\Tareas\\Tareas-POO\\Tarea 4\\Tarea4\\Tarea4.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }
