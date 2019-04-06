@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Tarea4
 {
@@ -48,10 +49,10 @@ class Program
    {
       Bajista b = new Bajista("Flea", "bajo acústico");
       Guitarrista g = new Guitarrista("Santana","guitarra Yamaha");
-      Musico [] m = new Musico[2];
-      m[0] = b;
-      m[1] = g; 
-      foreach (Musico musico in m)
+      List<Musico> musicos = new List<Musico>();
+      musicos.Add(b);
+      musicos.Add(g);
+      foreach (Musico musico in musicos)
       {
         System.Console.WriteLine(musico.Display());
         (musico as IAfinable).Afina();

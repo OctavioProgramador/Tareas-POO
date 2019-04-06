@@ -148,10 +148,13 @@ class Program
     Musico m = new Musico("Django"); (D)
     Bajista b = new Bajista("Flea");
     Guitarrista g = new Guitarrista("Santana");
-    Musico [] m = ____________________
-    m[0] = b;
-    m[1] = g; 
-    foreach ( ___________)
+    List<Musico> musicos = ____________________
+    musicos.Add(b);
+    musicos.Add(g);
+    foreach ( _____in musicos______)
+        ____________________
+
+ // (m as IAfina).Afina()
        _____________________
     Console.ReadKey();
  }
@@ -206,10 +209,10 @@ class Program
       //Musico m = new Musico("Django"); 
       Bajista b = new Bajista("Flea", "bajo acústico");
       Guitarrista g = new Guitarrista("Santana","guitarra Yamaha");
-      Musico [] m = new Musico[2];
-      m[0] = b;
-      m[1] = g; 
-      foreach (Musico musico in m)
+      List<Musico> musicos = new List<Musico>();
+      musicos.Add(b);
+      musicos.Add(g);
+      foreach (Musico musico in musicos)
       {
         Console.WriteLine(musico.Afina());
         musico.Afina();
@@ -284,10 +287,10 @@ class Program
    {
       Bajista b = new Bajista("Flea", "bajo acústico");
       Guitarrista g = new Guitarrista("Santana","guitarra Yamaha");
-      Musico [] m = new Musico[2];
-      m[0] = b;
-      m[1] = g; 
-      foreach (Musico musico in m)
+      List<Musico> musicos = new List<Musico>();
+      musicos.Add(b);
+      musicos.Add(g);
+      foreach (Musico musico in musicos)
       {
         System.Console.WriteLine(musico.Display());
         (musico as IAfinable).Afina();
