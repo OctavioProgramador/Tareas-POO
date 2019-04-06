@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("El stak")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Tarea4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("El stak")]
-[assembly: System.Reflection.AssemblyTitleAttribute("El stak")]
+[assembly: System.Reflection.AssemblyProductAttribute("Tarea4")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Tarea4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
