@@ -1,0 +1,11 @@
+C:\Users\ITT\Documents\GitHub\Tareas-POO\ex\obj\Debug\netcoreapp2.1\ex.csprojAssemblyReference.cache
+C:\Users\ITT\Documents\GitHub\Tareas-POO\ex\obj\Debug\netcoreapp2.1\ex.csproj.CoreCompileInputs.cache
+C:\Users\ITT\Documents\GitHub\Tareas-POO\ex\obj\Debug\netcoreapp2.1\ex.AssemblyInfoInputs.cache
+C:\Users\ITT\Documents\GitHub\Tareas-POO\ex\obj\Debug\netcoreapp2.1\ex.AssemblyInfo.cs
+C:\Users\ITT\Documents\GitHub\Tareas-POO\ex\bin\Debug\netcoreapp2.1\ex.deps.json
+C:\Users\ITT\Documents\GitHub\Tareas-POO\ex\bin\Debug\netcoreapp2.1\ex.runtimeconfig.json
+C:\Users\ITT\Documents\GitHub\Tareas-POO\ex\bin\Debug\netcoreapp2.1\ex.runtimeconfig.dev.json
+C:\Users\ITT\Documents\GitHub\Tareas-POO\ex\bin\Debug\netcoreapp2.1\ex.dll
+C:\Users\ITT\Documents\GitHub\Tareas-POO\ex\bin\Debug\netcoreapp2.1\ex.pdb
+C:\Users\ITT\Documents\GitHub\Tareas-POO\ex\obj\Debug\netcoreapp2.1\ex.dll
+C:\Users\ITT\Documents\GitHub\Tareas-POO\ex\obj\Debug\netcoreapp2.1\ex.pdb
