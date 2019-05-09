@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ITT\\Documents\\GitHub\\Tareas-POO\\Interfaces\\Interfaces.csproj",
-      "projectName": "Interfaces",
-      "projectPath": "c:\\Users\\ITT\\Documents\\GitHub\\Tareas-POO\\Interfaces\\Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\ITT\\Documents\\GitHub\\Tareas-POO\\productosç\\productosç.csproj",
+      "projectName": "productosç",
+      "projectPath": "C:\\Users\\ITT\\Documents\\GitHub\\Tareas-POO\\productosç\\productosç.csproj",
       "packagesPath": "C:\\Users\\ITT\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ITT\\Documents\\GitHub\\Tareas-POO\\Interfaces\\obj\\",
+      "outputPath": "C:\\Users\\ITT\\Documents\\GitHub\\Tareas-POO\\productosç\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

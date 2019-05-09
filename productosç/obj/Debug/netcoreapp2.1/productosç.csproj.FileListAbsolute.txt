@@ -1,0 +1,11 @@
+C:\Users\ITT\Documents\GitHub\Tareas-POO\productosç\bin\Debug\netcoreapp2.1\productosç.deps.json
+C:\Users\ITT\Documents\GitHub\Tareas-POO\productosç\bin\Debug\netcoreapp2.1\productosç.runtimeconfig.json
+C:\Users\ITT\Documents\GitHub\Tareas-POO\productosç\bin\Debug\netcoreapp2.1\productosç.runtimeconfig.dev.json
+C:\Users\ITT\Documents\GitHub\Tareas-POO\productosç\bin\Debug\netcoreapp2.1\productosç.dll
+C:\Users\ITT\Documents\GitHub\Tareas-POO\productosç\bin\Debug\netcoreapp2.1\productosç.pdb
+C:\Users\ITT\Documents\GitHub\Tareas-POO\productosç\obj\Debug\netcoreapp2.1\productosç.csprojAssemblyReference.cache
+C:\Users\ITT\Documents\GitHub\Tareas-POO\productosç\obj\Debug\netcoreapp2.1\productosç.csproj.CoreCompileInputs.cache
+C:\Users\ITT\Documents\GitHub\Tareas-POO\productosç\obj\Debug\netcoreapp2.1\productosç.AssemblyInfoInputs.cache
+C:\Users\ITT\Documents\GitHub\Tareas-POO\productosç\obj\Debug\netcoreapp2.1\productosç.AssemblyInfo.cs
+C:\Users\ITT\Documents\GitHub\Tareas-POO\productosç\obj\Debug\netcoreapp2.1\productosç.dll
+C:\Users\ITT\Documents\GitHub\Tareas-POO\productosç\obj\Debug\netcoreapp2.1\productosç.pdb
