@@ -1,0 +1,11 @@
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.deps.json
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.runtimeconfig.json
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.runtimeconfig.dev.json
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.dll
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.pdb
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.csprojAssemblyReference.cache
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.AssemblyInfo.cs
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.dll
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.pdb

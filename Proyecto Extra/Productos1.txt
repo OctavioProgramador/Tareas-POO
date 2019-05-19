@@ -1,0 +1,4 @@
+1A|Sabritas|12.50|1|100
+1B|Sabritas Flaming Hot|14.50|2|1500
+1C|Ruffles|13.50|3|150
+1D|Doritos|10|4|100

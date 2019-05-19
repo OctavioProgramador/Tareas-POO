@@ -1,0 +1,11 @@
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto Extra\bin\Debug\netcoreapp2.2\Proyecto Extra.deps.json
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto Extra\bin\Debug\netcoreapp2.2\Proyecto Extra.runtimeconfig.json
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto Extra\bin\Debug\netcoreapp2.2\Proyecto Extra.runtimeconfig.dev.json
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto Extra\bin\Debug\netcoreapp2.2\Proyecto Extra.dll
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto Extra\bin\Debug\netcoreapp2.2\Proyecto Extra.pdb
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto Extra\obj\Debug\netcoreapp2.2\Proyecto Extra.csprojAssemblyReference.cache
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto Extra\obj\Debug\netcoreapp2.2\Proyecto Extra.csproj.CoreCompileInputs.cache
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto Extra\obj\Debug\netcoreapp2.2\Proyecto Extra.AssemblyInfoInputs.cache
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto Extra\obj\Debug\netcoreapp2.2\Proyecto Extra.AssemblyInfo.cs
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto Extra\obj\Debug\netcoreapp2.2\Proyecto Extra.dll
+C:\Users\Octavio\Documents\GitHub\Tareas-POO\Proyecto Extra\obj\Debug\netcoreapp2.2\Proyecto Extra.pdb

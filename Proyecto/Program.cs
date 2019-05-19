@@ -7,56 +7,35 @@ namespace Proyecto
     class Program
     {
         static void Main(string[] args)
-        {
-            
-        }
-    }
-    class Producto
-    {
-        public string Codigo{get; set;}
-        public string Descripcion{get;set;}
-        public decimal Precio{get;set;}
-        public int Departamento{get;set;}
-        public int Likes{get;set;}        
-    }
-    class ProductoDB
-    {
-        public static void GuardadarTexto(List<Producto> productos, string path)
-        {
-            FileStream fileStream = null;
-            StreamWriter streamWriter = null;
-            try
+        {            
+            string path = "Productos.txt";
+            string pathBinario = "ProductosBinario.txt";  
+            List<Producto> productos =  new List<Producto>()
             {
-                fileStream = new FileStream(path, FileMode.Open, FileAccess.Write);
-                streamWriter = new StreamWriter(fileStream);
-                foreach(Producto producto in productos)
-                {
-                    Console.Write(producto.Codigo+"|");
-                    Console.Write(producto.Descripcion+"|");                 
-                    Console.Write(producto.Precio+"|");                    
-                    Console.Write(producto.Departamento+"|");                    
-                    Console.WriteLine(producto.Likes);                    
-                }                
-            }        
-            catch(DirectoryNotFoundException)
+                new Producto("1A","Sabritas",12.50m,1,100),
+                new Producto("1B","Ruffles",13,2,150),
+                new Producto("1C","Doritos",14.50m,3,1200),
+                new Producto("1D","Paketaxo",17.50m,5,1000),
+                new Producto("1A","Barritas de fresa",7.50m,1,1500),
+                new Producto("2A","Emperador de limón",10.50m,2,0),
+                new Producto("2B","Gelletas María",6.50m,3,110),
+            };
+
+            Console.WriteLine("¡Bienvenido al programa de productos!");            
+            if(!File.Exists(path))
             {
-                Console.WriteLine("No se encontró el folder");
-            }
-            catch(FileNotFoundException)
+                ProductoDB.GuardadarTexto(productos,path);
+                Console.WriteLine("Productos.txt creado...");   
+            }                         
+            if(!File.Exists(pathBinario))
             {
-                Console.WriteLine("No se encontró el archivo");                
-            }
-            catch(IOException e)
-            {
-                System.Console.WriteLine(e.Message);
-            }
-            finally
-            {
-                if(!(fileStream == null))
-                    fileStream.Close();
-               if(!(streamWriter == null))
-                    streamWriter.Close();
-            }
+                ProductoDB.GuardadarTexto(productos,pathBinario);
+                Console.WriteLine("ProductosBinario.txt creado...\n");     
+            }                       
+            Console.WriteLine("Método GetDepartment con 1 como parámetro\n");
+            ProductoDB.GetDepartment(1, path);
+            Console.WriteLine("Leer los productos de un archivo y ordenarlos por likes\n");
+            ProductoDB.ImprimirProductosPorLikes(path);
         }
     }
 }

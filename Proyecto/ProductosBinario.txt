@@ -1,0 +1,7 @@
+1A|Sabritas|12.50|1|100
+1B|Ruffles|13|2|150
+1C|Doritos|14.50|3|1200
+1D|Paketaxo|17.50|5|1000
+1A|Barritas de fresa|7.50|1|1500
+2A|Emperador de limón|10.50|2|0
+2B|Gelletas María|6.50|3|110
