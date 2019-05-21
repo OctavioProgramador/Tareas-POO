@@ -9,7 +9,7 @@ namespace Proyecto
         static void Main(string[] args)
         {            
             string path = "Productos.txt";
-            string pathBinario = "ProductosBinario.txt";  
+            string pathBinario = "ProductosBinario.dat";  
             List<Producto> productos =  new List<Producto>()
             {
                 new Producto("1A","Sabritas",12.50m,1,100),
@@ -26,14 +26,17 @@ namespace Proyecto
             {
                 ProductoDB.GuardadarTexto(productos,path);
                 Console.WriteLine("Productos.txt creado...");   
-            }                         
+            }
+
             if(!File.Exists(pathBinario))
             {
-                ProductoDB.GuardadarTexto(productos,pathBinario);
+                ProductoDB.GuardarTextoBinario(productos,pathBinario);
                 Console.WriteLine("ProductosBinario.txt creado...\n");     
-            }                       
+            } 
+
             Console.WriteLine("Método GetDepartment con 1 como parámetro\n");
             ProductoDB.GetDepartment(1, path);
+            
             Console.WriteLine("Leer los productos de un archivo y ordenarlos por likes\n");
             ProductoDB.ImprimirProductosPorLikes(path);
         }
